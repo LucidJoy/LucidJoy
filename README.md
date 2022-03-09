@@ -2,7 +2,8 @@
 
 My name is Joy. I'm a Full-stack developer with specialization in MERN.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucidJoy&show_icons=true&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=FF0080&icon_color=FF0080&text_color=fefefe)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucidJoy&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FF0080&icon_color=FF0080&text_color=fefefe)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucidJoy&show_icons=true&theme=gotham&hide_border=true) -->
 
 <img align="left" alt="mongo" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
