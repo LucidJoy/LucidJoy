@@ -1,6 +1,6 @@
 ### Hi there 👋🏻    
 
-My name is Joy. I'm a Full-stack developer with specialization in MERN.
+My name is Joy. I'm a Full-stack developer with specialization in Web3 & MERN.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucidJoy&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FF0080&icon_color=FF0080&text_color=fefefe)
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucidJoy&show_icons=true&theme=gotham&hide_border=true) -->
