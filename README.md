@@ -11,6 +11,8 @@ My name is Joy. I'm a Full-stack developer with specialization in Web3 & MERN.
 
 <img align="left" alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
+<img align="left" alt="react" src="https://img.shields.io/badge/solidity-%2320232a.svg?style=for-the-badge&logo=solidity&logoColor=%2361DAFB"/>
+
 <img align="left" alt="node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 
 
